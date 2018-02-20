@@ -2,6 +2,9 @@ name: salon
 dependencies:
   - python
   - numpy
+  - scipy
   - matplotlib
   - mpmath
   - gfortran_linux-64
+  - ffmpeg
+  - h5py
