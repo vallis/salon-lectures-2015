@@ -1,0 +1,7 @@
+name: salon
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - mpmath
+  - gfortran_linux-64
