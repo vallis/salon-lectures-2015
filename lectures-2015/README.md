@@ -2,6 +2,8 @@
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/vallis/salon/lectures-2015)
 
+| Lecture | Topic | | |
+| --- | --- | --- | --- |
 | Lecture 1 | Introduction to Python                                             | [browse](https://github.com/vallis/salon/blob/master/lectures-2015/lecture1-Python-introduction.ipynb)     |  [launch](http://mybinder.org/repo/vallis/salon/lectures-2015/lecture1-Python-introduction.ipynb) |
 | Lecture 2 | Scientific-programming packages                                    | [browse](https://github.com/vallis/salon/blob/master/lectures-2015/lecture2-Python-packages.ipynb)         |  [launch]() |
 | Lecture 3 | Programming the web 1 (requests)                                   | [browse](https://github.com/vallis/salon/blob/master/lectures-2015/lecture3-web-requests.ipynb)            |  [launch]() |
